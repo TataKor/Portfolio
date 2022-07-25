@@ -38,7 +38,9 @@ p {
   font-size: 16px;
   line-height: 30px;
 }
-
+.show {
+  text-align: center;
+}
 .hero {
   background: var(--secondary-color);
   text-align: center;
@@ -206,4 +208,7 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
+}
+.img-fluid {
+  border-radius: 15px;
 }
