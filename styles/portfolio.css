@@ -209,6 +209,15 @@ footer .social-links a:hover {
     text-align: center;
   }
 }
-.img-fluid {
+.img-fluid-foto {
   border-radius: 15px;
+  float: right;
+}
+
+div.container-skills, ul.skill-ul {
+  padding-left: 0cm;
+}
+
+a.link {
+  margin-top: 60px;
 }
